@@ -1,7 +1,5 @@
 # About me
 
-
-
 <h1 align="center"/h1>
  
 I just started my programming journey,
