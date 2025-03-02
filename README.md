@@ -10,7 +10,8 @@
 Greetings!
 
 I just started my programming journey, 
-and have just begun the [theOdinsProject](https://www.theodinproject.com) online course.
+and have just begun the [theOdinsProject](https://www.theodinproject.com) online course,
+as i wish to gain new skills and open new doors to use my creative skills.
 I love music and I am a multi instrumentalist doing all kinds of music projects such as 
 composing, producing and live performing, on a part hobby/professional skill level.
 If you wan to learn more about me and my music related projects/journey, 
